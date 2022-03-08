@@ -2,7 +2,6 @@
 
 ![Main Header](Img/vsys.png)
 
-[![Github All Releases](https://img.shields.io/github/downloads/visusys/Photoshop-PAT-Extractor/total.svg)]()
 
 ## Extract and save images from Photoshop pattern files `(.pat)` quickly and easily.
 
