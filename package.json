@@ -1,0 +1,35 @@
+{
+  "name": "pat-parser-visusys",
+  "version": "1.0.0",
+  "description": "Modified version of Jaroslav Bereza's pat-parser to allow for tighter integration.",
+  "main": "src/save.js",
+  "scripts": {
+    "start": "node save.js"
+  },
+  "keywords": [
+      "photoshop",
+      "PAT",
+      "Pattern",
+      "Converter"
+  ],
+  "author": "Visusys",
+  "contributors": [
+    "Jaroslav Bereza (https://github.com/jardicc)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "pngjs": "^3.4.0",
+    "slash2": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.0",
+    "@types/pngjs": "^3.4.1",
+    "jest": "^27.5.1",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visusys/Photoshop-PAT-to-Image-Conversion"
+  }
+}
