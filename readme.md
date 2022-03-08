@@ -4,7 +4,7 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/visusys/Photoshop-PAT-Extractor/total.svg)]()
 
-##Extract and save images from Photoshop pattern files `(.pat)` quickly and easily.
+## Extract and save images from Photoshop pattern files `(.pat)` quickly and easily.
 
 Note: .PAT Image Extractor **heavily** depends on .PAT format parser code originally released by [Jaroslav Bereza](https://github.com/jardicc/pat-parser).
 
