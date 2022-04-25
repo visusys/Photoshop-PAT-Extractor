@@ -1,13 +1,9 @@
-
-
-![Main Header](Img/vsys.png)
-
-
+# Photoshop .PAT Extractor
 ## Extract and save images from Photoshop pattern files `(.pat)` quickly and easily.
 
-Note: .PAT Image Extractor **heavily** depends on .PAT format parser code originally released by [Jaroslav Bereza](https://github.com/jardicc/pat-parser).
+Note: The core .PAT parsing code was created entirely by [Jaroslav Bereza](https://github.com/jardicc/pat-parser).
 
-I've modified the code to accept dynamic parameters and wrote a small PowerShell wrapper that can be invoked by the Windows registry for tight integration with the right-click context menu. 
+I've tweaked the code to accept dynamic parameters and wrote a small PowerShell wrapper that can be invoked by the Windows registry for tight integration with the right-click context menu. 
 
 The PowerShell script also makes use of `SingleInstanceAccumulator` (https://github.com/Beej126/SingleInstanceAccumulator) to provide support for processing multiple files at once in Windows Explorer without running multiple instances of the terminal and also hiding the CLI window.
 
